@@ -1,0 +1,8 @@
+{ "name": "Postgres in the Cloud", 
+
+  "sections": [ 
+    {"section":"intro"},
+    {"section":"jargon"},
+    {"section":"platform"},
+    {"section":"ec2"}
+]}
